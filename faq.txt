@@ -1,1 +1,5 @@
-hello!
+npm create vite@latest
+
+select react-ts
+
+npm run dev 
